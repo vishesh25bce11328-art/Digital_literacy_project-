@@ -9,4 +9,4 @@ For this task, I designed an infographic to explain what digital literacy means 
 While making this infographic, I tried to keep the content simple and easy to understand so that anyone can quickly learn from it. It also helped me understand how important it is to use digital platforms responsibly.
 
 ## Screenshot:
-![Infographic](screenshot.png)
+![Infographic](Screenshot.png)
